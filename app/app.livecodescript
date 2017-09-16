@@ -41,7 +41,8 @@ command OpenApplication
   # Open UI stack
 
   # Open the starter app sample window UI stack
-  go stack "LevureSampleWindow"
+ # go stack "LevureSampleWindow"
+  go stack "TranslateUI"
 end OpenApplication
 
 

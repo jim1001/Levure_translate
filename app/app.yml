@@ -54,6 +54,10 @@ build profiles:
     copy files:
       all platforms:
         - filename: assets
+        - filename: locales/en.yml
+        - filename: locales/fr.yml        
+        
+        
       macos:
       windows:
       linux:
@@ -61,3 +65,4 @@ build profiles:
       android:
   release:
   beta:
+  dev:
